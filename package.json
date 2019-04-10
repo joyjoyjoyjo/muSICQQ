@@ -1,0 +1,23 @@
+{
+  "name": "musicqq",
+  "version": "1.0.0",
+  "description": "QQMusic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyjoyjoyjo/muSICQQ.git"
+  },
+  "keywords": [],
+  "author": {
+    "email": "xiaoyishikongde@163.com",
+    "name": "Yi.Xiao"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joyjoyjoyjo/muSICQQ/issues"
+  },
+  "homepage": "https://github.com/joyjoyjoyjo/muSICQQ#readme"
+}
